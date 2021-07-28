@@ -15,6 +15,13 @@ Developed a code to download databases from https://data.buenosaires.gob.ar/data
 ## Analyzing the data
 Seaborn and matplotlib modules were used for graphics. First, the ten most common trees in Buenos Aires parks were investigated. Eucalipto took first place. 
 
+![MostCommonTrees](https://github.com/melisadigiacomo/DataAnalysis_BuenosAiresTrees/blob/master/Mostcommon_trees.png)
+
 A boxplot of diameters of this species in two different environments (parks and sidewalks) was built. The comparisson of the diameters showed no significant differences between the two environments (t-statistic=0.89, p=0.3731). 
 
+![Boxplot_Eucalipto](https://github.com/melisadigiacomo/DataAnalysis_BuenosAiresTrees/blob/master/Boxplot_diameters_Eucalyptus.jpg)
+
 Based on the scientific name of the three most common species of tress in Buenos Aires parks, a pairplot of heights and diameters was built. As for diameter and heigh, Eucalipto was the species with the highest values.
+
+![Pairplot](https://github.com/melisadigiacomo/DataAnalysis_BuenosAiresTrees/blob/master/Pairplot.jpg)
+![BA_Trees](https://github.com/melisadigiacomo/DataAnalysis_BuenosAiresTrees/blob/master/BA_Trees.jpg)
